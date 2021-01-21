@@ -365,11 +365,11 @@ const testVaultNotifications = new aws.backup.VaultNotifications("testVaultNotif
 
 ## VaultNotifications Resource Properties {#properties}
 
-To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) in the Programming Model docs.
+To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) in the Architecture and Concepts docs.
 
 ### Inputs
 
-The VaultNotifications resource accepts the following [input]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) properties:
+The VaultNotifications resource accepts the following [input]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) properties:
 
 
 

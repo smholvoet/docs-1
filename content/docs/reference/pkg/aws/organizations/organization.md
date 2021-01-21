@@ -190,11 +190,11 @@ The AWS organization can be imported by using the `id`, e.g.
 
 ## Organization Resource Properties {#properties}
 
-To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) in the Programming Model docs.
+To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) in the Architecture and Concepts docs.
 
 ### Inputs
 
-The Organization resource accepts the following [input]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) properties:
+The Organization resource accepts the following [input]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) properties:
 
 
 

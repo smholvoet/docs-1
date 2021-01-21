@@ -399,11 +399,11 @@ const testRolePolicy = new aws.iam.RolePolicy("testRolePolicy", {
 
 ## EventStream Resource Properties {#properties}
 
-To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) in the Programming Model docs.
+To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) in the Architecture and Concepts docs.
 
 ### Inputs
 
-The EventStream resource accepts the following [input]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) properties:
+The EventStream resource accepts the following [input]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) properties:
 
 
 

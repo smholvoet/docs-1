@@ -184,11 +184,11 @@ Event is a report of an event somewhere in the cluster. It generally denotes som
 
 ## Event Resource Properties {#properties}
 
-To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) in the Programming Model docs.
+To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) in the Architecture and Concepts docs.
 
 ### Inputs
 
-The Event resource accepts the following [input]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) properties:
+The Event resource accepts the following [input]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) properties:
 
 
 

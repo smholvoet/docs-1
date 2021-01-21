@@ -280,11 +280,11 @@ const example = new aws.datasync.LocationSmb("example", {
 
 ## LocationSmb Resource Properties {#properties}
 
-To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) in the Programming Model docs.
+To learn more about resource properties and how to use them, see [Inputs and Outputs]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) in the Architecture and Concepts docs.
 
 ### Inputs
 
-The LocationSmb resource accepts the following [input]({{< relref "/docs/intro/concepts/programming-model#outputs" >}}) properties:
+The LocationSmb resource accepts the following [input]({{< relref "/docs/intro/concepts/inputs-outputs" >}}) properties:
 
 
 
